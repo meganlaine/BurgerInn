@@ -1,9 +1,13 @@
 # CSC143 Project 2  - Hotel Software :hotel:
 
-_PROJECT TITLE_: Burger Inn 
+_PROJECT TITLE_: Burger Inn
+
 _PURPOSE OF PROJECT_: (Part II) of a hotel reservation software program.  
+
 _VERSION or DATE_: 3/7/2019, CSC 143 Winter 2019  
+
 _AUTHOR_: Megan Laine (built upon prior work created with: Dale Berg, Nick Coyle, and Steven Liu)
+
 _GITHUB LINK_: <https://github.com/meganlaine/BurgerInn/> :octocat:
 
 
