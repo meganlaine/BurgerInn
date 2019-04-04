@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ListRoomNode
+comment0.text=\n\ Class\ ListRoomNode\ stores\ single\ nodes\ of\ a\ LinkedRoomList.\n\ This\ node\ class\ is\ for\ a\ doubly\ linked\ list\ of\ Room\ instances.\n\ \n\ @author\ Megan\ Laine\n\ @version\ 4\ Mar\ 2019\ CSC\ 143\n
+comment1.params=
+comment1.target=ListRoomNode()
+comment1.text=\n\ ListRoomNode\ Constructor\ (default\ 1/3)\ constructs\ a\ ListRoomNode\ with\ Room\ r,\n\ next,\ and\ prev\ all\ pointing\ to\ nothing.\n
+comment2.params=r
+comment2.target=ListRoomNode(Room)
+comment2.text=\n\ ListRoomNode\ Constructor\ (2/3)\ constructs\ a\ ListRoomNode\ with\ the\ given\ Room;\ next\ \n\ and\ prev\ point\ to\ nothing.\n\n\ @param\ r\ (Room)\ a\ Room\ object\ to\ store\ in\ the\ ListRoomNode\n
+comment3.params=r\ next\ prev
+comment3.target=ListRoomNode(Room,\ ListRoomNode,\ ListRoomNode)
+comment3.text=\n\ ListRoomNode\ Constructor\ (3/3)\ construts\ a\ ListRoomNode\ with\ the\ given\ Room\ AND\ the\n\ given\ PREVIOUS\ and\ NEXT\ nodes.\n\n\ @param\ r\ (Room)\ a\ Room\ object\ to\ store\ in\ the\ ListRoomNode\n\ @param\ next\ (ListRoomNode)\ a\ ListRoomNode\n\ @param\ prev\ (ListRoomNode)\ a\ ListRoomNode\n
+numComments=4

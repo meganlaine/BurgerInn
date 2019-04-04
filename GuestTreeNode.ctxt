@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GuestTreeNode
+comment0.text=\n\ Class\ GuestTreeNode\ stores\ single\ nodes\ of\ a\ GuestTree;\ this\ node\ class\ is\ for\ trees\ of\ \n\ Guest\ instances;\ it\ contains\ a\ Guest\ object,\ and\ a\ reference\ to\ a\ left\ child\ node\ and\ a\ \n\ right\ child\ node.\n\ \n\ @author\ Megan\ Laine\n\ @version\ 4\ Mar\ 2019\ CSC\ 143\ \n
+comment1.params=g
+comment1.target=GuestTreeNode(Guest)
+comment1.text=\n\ GuestTreeNode\ Constructor\ 1/1\ takes\ a\ Guest\ object\ as\ a\ parameter\ and\ returns\ a\ tree\ node\n\ where\ the\ node\ is\ considered\ the\ tip\ of\ a\ branch\ (a\ 'leaf').\n\n\ @param\ g\ (Guest)\ the\ guest\ to\ add\ to\ the\ GuestTree\n
+comment2.params=g\ left\ right
+comment2.target=GuestTreeNode(Guest,\ GuestTreeNode,\ GuestTreeNode)
+comment2.text=\n\ GuestTreeNode\ Constructor\ 2/2\ takes\ a\ Guest\ object,\ a\ reference\ to\ two\ other\ nodes;\ \n\ it\ returns\ a\ tree\ node\ that\ has\ added\ the\ two\ other\ nodes\ as\ children\ of\ the\ returned\ \n\ node.\n\n\ @param\ g\ (Guest)\ a\ guest\ to\ add\ to\ the\ GuestTree\n\ @param\ left\ (GuestTreeNode)\ node\ to\ add\ as\ the\ returned\ node's\ left-child-node\n\ @param\ right\ (GuestTreeNode)\ node\ to\ add\ as\ the\ returned\ node's\ right-child-node\n
+numComments=3
